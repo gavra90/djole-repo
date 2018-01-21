@@ -1,0 +1,17 @@
+{
+  "name": "djole",
+  "version": "1.0.0",
+  "description": "neki test",
+  "main": "dijagram.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+   "dependencies": {    
+    "moment": "^2.18.1"
+  },  
+  "keywords": [
+    "djole"
+  ],
+  "author": "Drazen",
+  "license": "ISC"
+}
